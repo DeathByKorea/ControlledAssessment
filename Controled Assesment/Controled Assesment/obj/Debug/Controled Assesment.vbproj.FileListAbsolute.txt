@@ -1,0 +1,10 @@
+U:\My Documents\Visual Studio 2017\Projects\Controled Assesment\Controled Assesment\bin\Debug\Controled Assesment.exe.config
+U:\My Documents\Visual Studio 2017\Projects\Controled Assesment\Controled Assesment\bin\Debug\Controled Assesment.exe
+U:\My Documents\Visual Studio 2017\Projects\Controled Assesment\Controled Assesment\bin\Debug\Controled Assesment.pdb
+U:\My Documents\Visual Studio 2017\Projects\Controled Assesment\Controled Assesment\bin\Debug\Controled Assesment.xml
+U:\My Documents\Visual Studio 2017\Projects\Controled Assesment\Controled Assesment\obj\Debug\Controled_Assesment.Resources.resources
+U:\My Documents\Visual Studio 2017\Projects\Controled Assesment\Controled Assesment\obj\Debug\Controled Assesment.vbproj.GenerateResource.Cache
+U:\My Documents\Visual Studio 2017\Projects\Controled Assesment\Controled Assesment\obj\Debug\Controled Assesment.exe
+U:\My Documents\Visual Studio 2017\Projects\Controled Assesment\Controled Assesment\obj\Debug\Controled Assesment.xml
+U:\My Documents\Visual Studio 2017\Projects\Controled Assesment\Controled Assesment\obj\Debug\Controled Assesment.pdb
+U:\My Documents\Visual Studio 2017\Projects\Controled Assesment\Controled Assesment\obj\Debug\Controled Assesment.vbprojResolveAssemblyReference.cache
